@@ -139,7 +139,7 @@ a:hover {
 
 .listings .item.active .title,
 .listings .item .title:hover {
-    color: var(--main-black-color);
+    color: var(--main-color);
 }
 
 .listings .item.active {
