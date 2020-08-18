@@ -62,8 +62,7 @@ body {
 }
 
 .audio {
-    margin-left: 20px;
-    margin-top: 20px;
+    margin: 20px 30px 0px;
 }
 
 .audio:focus {
