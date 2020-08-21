@@ -85,6 +85,7 @@ function addMarkers() {
             }
             var listing = document.getElementById('listing-' + marker.properties.id);
             listing.classList.add('active');
+            listing.scrollIntoView({ behavior: 'smooth', block: 'center' })
         });
     });
 }
